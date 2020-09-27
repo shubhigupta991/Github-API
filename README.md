@@ -1,1 +1,1 @@
-## Github API WebApp
+## Simple Github API WebApp
